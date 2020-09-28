@@ -1,0 +1,21 @@
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 60px;
+  width: 720px;
+  height: 720px;
+  border: 1px solid black;
+}
+.white {
+  text-align: center;
+  background-color: #f0d9b5;
+  width: 90px;
+  height: 90px;
+}
+.black {
+  text-align: center;
+  background-color: #b58863;
+  width: 90px;
+  height: 90px;
+}
